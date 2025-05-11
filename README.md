@@ -33,11 +33,37 @@ AzureSecurity-Advanced:
 - LICENSE
 - README.md
 
-## 📸 Ejemplo de Capturas
+## 📸 Evidencias del laboratorio
 
-![Política de acceso condicional aplicada]([https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Creacion%20de%20Nueva%20directiva%20-%20Acceso%20Condincional.jpg])
+### 1. Creacion de Usuarios
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Creacion%20de%20Usuarios.jpg)
 
-![Alerta de riesgo detectada](screenshots/alerta-riesgo.png)
+### 2. Agregar Usuarios a Grupos
+![VM]([https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Agregar%20Usuarios%20a%20Grupos.jpg)
+
+### 3. Habilitar Autentificacion MFA
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Habilitar%20Autentificacion%20MFA.jpg)
+
+### 4. Test de Ingreso MFA a un usuario
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Test%20de%20Ingreso%20MFA%20a%20un%20usuario.jpg)
+
+### 5. Prueba de Acceso MFA 2
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Prueba%20de%20Acceso%20MFA%202.jpg)
+
+### 6. Portal Seguridad de Azure
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Portal%20Seguridad%20de%20Azure.jpg)
+
+### 7. Creacion de Nueva directiva - Acceso Condicional
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Creacion%20de%20Nueva%20directiva%20-%20Acceso%20Condincional.jpg)
+
+### 8. Nueva Directiva Creada y Activada - Acceso Condicional
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Nueva%20Directiva%20Creada%20y%20Activada%20-%20Acceso%20Condicional.jpg)
+
+### 9. Prueba de Acceso Condicional de acuerdo ala Directiva
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Prueba%20de%20Acceso%20Condicional%20de%20acuerdo%20ala%20Directiva.jpg)
+
+### 10. Creacion de Directiva - Microsoft Entra Identity Protection
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Creacion%20de%20Directiva%20-%20Microsoft%20Entra%20Identity%20Protection.jpg)
 
 ## ✅ Resultados y Aprendizajes
 
