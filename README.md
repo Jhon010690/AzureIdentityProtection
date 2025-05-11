@@ -27,16 +27,15 @@ Este proyecto demuestra la implementación de controles avanzados de seguridad e
 
 ## 📂 Estructura del Proyecto
 
-AzureSecurity-Advanced/
-│
-├── screenshots/ # Imágenes del proyecto (configuraciones, alertas, pruebas)
-├── Proyecto_Seguridad_Azure_MFA_Identity_Protection_2025.pdf # Informe en PDF
-├── LICENSE
-└── README.md
+AzureSecurity-Advanced:
+- screenshots/ # Imágenes del proyecto (configuraciones, alertas, pruebas)
+- Proyecto_Seguridad_Azure_MFA_Identity_Protection_2025.pdf # Informe en PDF
+- LICENSE
+- README.md
 
 ## 📸 Ejemplo de Capturas
 
-![Política de acceso condicional aplicada](Imagenes Seguridad/Creacion de Nueva directiva - Acceso Condincional.jpg)
+![Política de acceso condicional aplicada](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Creacion%20de%20Nueva%20directiva%20-%20Acceso%20Condincional.jpg)
 
 ![Alerta de riesgo detectada](screenshots/alerta-riesgo.png)
 
