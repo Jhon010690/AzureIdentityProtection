@@ -36,7 +36,7 @@ AzureSecurity-Advanced/
 
 ## 📸 Ejemplo de Capturas
 
-![Política de acceso condicional aplicada](screenshots/politica-acceso-condicional.png)
+![Política de acceso condicional aplicada]([screenshots/politica-acceso-condicional.png](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Nueva%20Directiva%20Creada%20y%20Activada%20-%20Acceso%20Condicional.jpg))
 
 ![Alerta de riesgo detectada](screenshots/alerta-riesgo.png)
 
