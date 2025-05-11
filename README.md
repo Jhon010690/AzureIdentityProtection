@@ -39,7 +39,7 @@ AzureSecurity-Advanced:
 ![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Creacion%20de%20Usuarios.jpg)
 
 ### 2. Agregar Usuarios a Grupos
-![VM]([https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Agregar%20Usuarios%20a%20Grupos.jpg)
+![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Agregar%20Usuarios%20a%20Grupos.jpg)
 
 ### 3. Habilitar Autentificacion MFA
 ![VM](https://github.com/Jhon010690/AzureIdentityProtection/blob/main/Imagenes%20Seguridad/Habilitar%20Autentificacion%20MFA.jpg)
