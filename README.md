@@ -27,3 +27,42 @@ Este proyecto demuestra la implementación de controles avanzados de seguridad e
 
 ## 📂 Estructura del Proyecto
 
+AzureSecurity-Advanced/
+│
+├── screenshots/ # Imágenes del proyecto (configuraciones, alertas, pruebas)
+├── Proyecto_Seguridad_Azure_MFA_Identity_Protection_2025.pdf # Informe en PDF
+├── LICENSE
+└── README.md
+
+## 📸 Ejemplo de Capturas
+
+![Política de acceso condicional aplicada](screenshots/politica-acceso-condicional.png)
+
+![Alerta de riesgo detectada](screenshots/alerta-riesgo.png)
+
+## ✅ Resultados y Aprendizajes
+
+- Se implementó MFA exitosamente, mejorando la seguridad de acceso a los recursos.
+- Las políticas de acceso condicional permitieron restringir el acceso por ubicación, riesgo y tipo de dispositivo.
+- Se aprendió a detectar inicios de sesión sospechosos y mitigar riesgos en tiempo real con Identity Protection.
+- El monitoreo continuo y la posibilidad de ajustar políticas fueron clave para un entorno seguro y adaptable.
+
+## 📘 Relación con Certificación
+
+Este proyecto está alineado con la certificacion **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**, demostrando conocimientos aplicados en:
+
+- Identidades seguras en Azure
+- Gestión de accesos
+- Protección contra amenazas
+- Arquitectura de confianza cero (Zero Trust)
+
+## 📎 Recursos adicionales
+
+- [Documentación oficial Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/)
+- [Guía MFA en Azure](https://learn.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-azure-mfa)
+- [Introducción a Identity Protection](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
+
+---
+
+
+
