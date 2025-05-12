@@ -1,4 +1,4 @@
-# Proyecto de Seguridad Avanzada en Azure: MFA, Access Policies e Identity Protection (2025)
+# IdentityShield – Protección Avanzada de Identidades en Azure AD (2025)
 
 Este proyecto demuestra la implementación de controles avanzados de seguridad en Microsoft Azure, con enfoque en autenticación multifactor (MFA), políticas de acceso condicional y protección de identidad, alineado con los conceptos de la certificación **SC-900**.
 
